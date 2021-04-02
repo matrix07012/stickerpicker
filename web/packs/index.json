@@ -1,0 +1,10 @@
+{
+  "packs": [
+    "AnimeReactions.json",
+    "Weeb.json",
+    "tanya.json",
+    "Meru.json",
+    "Lawlicon.json"
+  ],
+  "homeserver_url": "https://matrix.waifuhunter.club"
+}
